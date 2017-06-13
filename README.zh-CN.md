@@ -1,4 +1,4 @@
-# learn-egg-example
+# egg-hackernews
 
 Egg example
 
