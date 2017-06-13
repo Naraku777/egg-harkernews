@@ -1,0 +1,23 @@
+{
+  "name": "egg-hackernew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^1.4.0",
+    "egg-view-nunjucks": "^2.1.2",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^3.4.2",
+    "supertest": "^3.0.0",
+    "egg-mock": "^3.7.2"
+  }
+}
